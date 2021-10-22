@@ -1,3 +1,9 @@
-# Voice Analytics with Deep Learning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training)
+Python Basics For Machine Learning
+
+Python -- [Python-Introduction](python/python-basics)
+Python -- [Python-Data Types](python/python-basics)
+Python -- [Python-ControlFlow](python/python-basics)
+Python -- [Pytho0n-File Handling](python/python-basics)
+
+
 
