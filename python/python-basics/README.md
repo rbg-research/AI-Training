@@ -1,7 +1,7 @@
 Python Basics for Machine Learning
 
-| S.No |  Description                             | Notebook Link                                                          | Colab Link           |
-|:----:|    :------------:                        |     :--------------:                                                   |    :--------:        |
+| S.No |  Topics                                  | Notebooks                                                             |  Link                |
+|:----:|    :------------:                        |     :--------------:                                                  |    :--------:        |
 | 1    | Introduction to python and Google colab  | [Python-Introduction](Python-Introduction.ipynb)  |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training/blob/main/python/python-basics/Python-Introduction.ipynb)                                                                                                                               |
 | 2    | Introduction to Data Types               | [Python-DataTypes  ](Python-DataTypes.ipynb)      |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training/blob/main/python/python-basics/Python-Data%20Types.ipynb)                                                                                                                               |
 | 3    | Understanduing control flow              | [Python-ControlFlow ](Python-ControlFlow.ipynb)    |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training/blob/main/python/python-basics/Python-ControlFlow.ipynb)                                                                                                                                |
