@@ -1,8 +1,8 @@
-#Python Basics for Machine Learning
+# Python Basics for Machine Learning
 
-##Contents
+## Contents
 
 | S.No |  Division                             | Description                                                          | Link           |
 |:----:|    :------------:                        |     :--------------:                                                   |    :--------:        |
-|1| Python Basics | Introduction to Python, python data types, python controlflow and pythopn file handling | [Link] (https://github.com/rbg-research/AI-Training/tree/main/python/python-basics) |
-|2| NumPy | Numpy basics for machine learning, linear algebra using NumPy | [Link] (https://github.com/rbg-research/AI-Training/tree/main/python/NumPy) |
+|1| Python Basics | Introduction to Python, python data types, python controlflow and pythopn file handling | [Link](https://github.com/rbg-research/AI-Training/tree/main/python/python-basics) |
+|2| NumPy | Numpy basics for machine learning, linear algebra using NumPy | [Link](https://github.com/rbg-research/AI-Training/tree/main/python/NumPy) |
