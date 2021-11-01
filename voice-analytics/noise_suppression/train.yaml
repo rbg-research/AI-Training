@@ -44,8 +44,8 @@ n_fft: 512
 window_fn: !name:torch.hamming_window
 
 # Training Parameters
-number_of_epochs: 3
-batch_size: 8
+number_of_epochs: 35
+batch_size: 16
 learning_rate: 0.0001
 dataloader_options:
     batch_size: !ref <batch_size>
