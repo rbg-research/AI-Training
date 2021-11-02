@@ -1,6 +1,9 @@
-## Tutorial on Computer Vision
+# Tutorials on Computer Vision
 
-|S.No.| Topic                                         | Notebooks                                             | Colab Link |
-|:--- | :-------------                                |:-------------                                         | :-----     |                    
-| 1   | Basics of Computer Vision |[Image processing with OpenCV](Basics_of_Computer_Vision/OpenCV/OpenCV_colab_tutorial_1.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training/blob/main/vision-analytics/Basics_of_Computer_Vision/OpenCV/OpenCV_colab_tutorial_1.ipynb) |
-|     |                           |[Image processing with TensorflowCV](Basics_of_Computer_Vision/Tensorflow_CV/Tensorflow_CV_Tutorial_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbg-research/AI-Training/blob/main/vision-analytics/Basics_of_Computer_Vision/Tensorflow_CV/Tensorflow_CV_Tutorial_1.ipynb)|
+## Contents
+
+| S.No |  Division                             | Description                                                          | Link           |
+|:----:|    :------------:                        |     :--------------:                                                   |    :--------:        |
+| 1   | Basics of Computer Vision |Reading and Displaying Images, Color sapces, Image Manipulation, Image Augmentntaion |[Link](https://github.com/rbg-research/AI-Training/tree/main/vision-analytics/Basics_of_Computer_Vision)|
+
+
