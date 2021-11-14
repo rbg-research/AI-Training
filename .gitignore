@@ -1,3 +1,5 @@
+pretrained_model/
+save/
 data/
 results/
 best_model/
