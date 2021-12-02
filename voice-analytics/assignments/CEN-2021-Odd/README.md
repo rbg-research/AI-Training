@@ -1,4 +1,7 @@
-# Instructions 
+# Assignment: Evaluation of ASR foundation models on LibriSpeech Corpus
+
+
+## Instructions for submitting working notes
 
 ### 1. [Fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) to your github account
 ### 2. Make a directory with your team id (ex: team-1)
