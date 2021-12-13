@@ -1,7 +1,7 @@
 
 # Speech Processing (20DS705)  
 
-# Team-7
+### Team-7
 * Aakash Jignesh Modi (CB.EN.P2CEN20001)
 * Mredulraj S. Pandianchery (CB.EN.P2CEN20019)
 * Vinay R. (CB.EN.P2CEN20028)  
