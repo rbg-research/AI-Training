@@ -18,5 +18,5 @@ Models worked on:
 * HuBERT
 
 Word Error Rate(WER) with Language Model (LM):
-*Conformer: 0.0258
-*HuBERT: 0.0201
+* Conformer: 0.0258
+* HuBERT: 0.0201
