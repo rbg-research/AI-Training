@@ -1,3 +1,17 @@
+| Team_ID | Model_Topics                | Links            |
+|---------|-----------------------------|------------------|
+| 1       | DeepSpeech and Wav2Vec2     | [Link](Team-1/)  |
+| 2       | DeepSpeech and Wav2Vec-xlsr | [Link](Team-2/)  |
+| 3       | ASR-CRDNN                   | [Link](Team-3/)  |
+| 4       | Hubert-large and Conformer  | [Link](Team-4/)  |
+| 5       | Hubert-xlarge and Conformer | [Link](Team-5/)  |
+| 6       | DeepSpeech and Wav2Vec2     | [Link](Team-6/)  |
+| 7       | Hebert and Conformer        | [Link](Team-7/)  |
+| 10      | Jasper and FAIRSEQ_S2T      | [Link](Team-10/) |
+| 11      | Jasper and FAIRSEQ_S2T      | [Link](Team-11/) |
+| 12      | FAIRSEQ_S2T and Jasper      | [Link](Team-12/) |
+| 13      | CRDNN                       | [Link](Team-13/) |
+
 # Assignment: Evaluation of ASR foundation models on LibriSpeech Corpus
 
 
