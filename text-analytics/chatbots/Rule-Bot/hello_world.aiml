@@ -1,0 +1,13 @@
+
+
+
+<aiml>
+
+   <category>
+    <pattern>Hello</pattern>
+    <template>
+        Hello Human!
+    </template>
+</category>
+
+</aiml>

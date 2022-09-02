@@ -1,0 +1,76 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+
+<category>
+  <pattern>HI</pattern>
+   <template>
+    <random>
+     <li>Hello!</li>
+     <li>Well hello there.</li>
+     <li>Howdy.</li>
+     <li>Good day.</li>
+      <li>Hi, friend.</li>
+    </random>
+   </template>
+</category>
+    
+    <category>
+        <pattern>Hello</pattern>
+        <template>
+            Hello Human!
+        </template>
+    </category>
+    
+    <category>
+    <pattern>I am *</pattern>
+    <template>
+    Hello <set name = "username"> <star/>! </set>
+    </template>
+    </category>
+
+
+ <category>
+<pattern>Good Night</pattern>
+  <template>
+  Hi <get name = "username"/> Thanks for the conversation!
+   </template>
+   </category>
+
+
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, and I'm silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DO YOU DO</pattern>
+        <template>
+            I'm here to annoy you!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Who am i</pattern>
+        <template>
+            You run a crappy YouTube Channel, get a life...
+        </template>
+    </category>
+
+    <category>
+        <pattern>How are You</pattern>
+        <template>
+            Im fine,How are You?
+        </template>
+    </category>
+
+    <category>
+        <pattern>who are you</pattern>
+        <template>
+            Im a bot, what i can do for you
+        </template>
+    </category>
+</aiml>
