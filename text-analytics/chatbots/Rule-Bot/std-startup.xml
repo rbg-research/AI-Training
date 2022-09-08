@@ -15,6 +15,7 @@
         <!-- This learn an aiml file -->
         <template>
             <learn>hello_world.aiml</learn>
+
 <!--            <learn>tourism.aiml</learn>-->
 <!--            <learn>xmls/ai.aiml</learn>-->
 <!--            <learn>basic_chat.aiml</learn>-->

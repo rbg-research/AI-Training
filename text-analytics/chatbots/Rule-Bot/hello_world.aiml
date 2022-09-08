@@ -4,10 +4,17 @@
 <aiml>
 
    <category>
-    <pattern>Hello</pattern>
-    <template>
-        Hello Human!
-    </template>
-</category>
+      <pattern>My name is *</pattern>
+      <template>
+         Hello!<think><set name = "username"> <star/></set></think>
+      </template>
+   </category>
+
+   <category>
+      <pattern>Byeee</pattern>
+      <template>
+         Hi <get name = "username"/> Thanks for the conversation!
+      </template>
+   </category>
 
 </aiml>
