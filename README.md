@@ -1,11 +1,11 @@
 # AI Training Materials
 **Making AI for Everyone Possible**
 
-We at RBG.AI upskilling and reskilling workforces to adhere to the new age AI projects. Focused in delivering high performance with optimal cost & time.
+We at [RBG.AI](https://www.rbg.ai/) upskilling and reskilling workforces to adhere to the new age AI projects. Focused in delivering high performance with optimal cost & time.
 
 As Digital transformation becomes the core of business strategies spanning all industry segments and markets, Workforces should prepare to adapt to the change of AI-driven digital transformation.
 
-We bring efficient training through Learn-Experiment-Share-Seek platform. Delivering AI centric Design-Develop-Debug-Deploy-Delivery to bridge the gap between AI Research and Business Requirement.
+We bring efficient experience based learning through Learn-Experiment-Share-Seek practice. Delivering AI centric Design-Develop-Debug-Deploy-Delivery to bridge the gap between AI Research and Business Requirement.
 
 We help your workforce to attain the multidisciplinary expertise in handling Text-Voice-Vision-Numeric Analytics to reduce the uncertainty nature of the AI Solutions.
 
