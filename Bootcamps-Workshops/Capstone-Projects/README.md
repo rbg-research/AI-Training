@@ -1,6 +1,6 @@
 # AI Capstone Projects
 Welcome to the AI Capstone project repository! 
-This repo serves as the culmination of our exploration into the field of artificial intelligence, showcasing participants 
+This repo serves as the culmination of workshop or bootcamp partcipants exploration into the field of artificial intelligence, showcasing participants 
 skills in machine learning, deep learning, and data science. You'll find information about the project, its objectives, 
 and how to navigate through the repository.
 
